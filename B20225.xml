@@ -1,0 +1,593 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Christian scholar in rules and directions for children and youth sent to English schools : more especially designed for the poor boys, taught and cloathed by charity, in the parish of St. Botolph Aldgate / drawn up and published at the request of some of their chief friends and benefactors.</title>
+         </titleStmt>
+         <extent>Approx. 67KB of XML-encoded text transcribed from 27 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B20225</idno><idno type="EEBO-CITATION">19225221</idno>
+  <idno type="VID">205426</idno>
+  <idno type="EEBO-PROQUEST">2240886643</idno>
+  
+            <idno type="STC">Wing C3948</idno>
+            <idno type="OCLC">19225221</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B20225)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 205426)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1664:42)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Christian scholar in rules and directions for children and youth sent to English schools : more especially designed for the poor boys, taught and cloathed by charity, in the parish of St. Botolph Aldgate / drawn up and published at the request of some of their chief friends and benefactors.</title>
+               </titleStmt>
+               <extent>52 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Richard Sare ... and are to be sold by Henry White ad William Shepey ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1700.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">School children --  England.</term>
+               <term type="topical_term">Education, Elementary --  England --  Handbooks, manuals, etc.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Olivia Bottum </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:205426:1"/>
+            <p>Christian Scholar: IN RULES and DIRECTIONS FOR CHILDREN and YOUTH Sent to English Schools.</p>
+            <p>More especially designed for the POOR BOYS, Taught and Cloathed by <hi>Charity,</hi> in the Parish of St. <hi>Botolph Aldgate.</hi>
+            </p>
+            <p>
+               <hi>Drawn up and Published at the Request of some of their Chief Friends and Benefactors.</hi>
+            </p>
+            <q>
+               <bibl>
+                  <hi>1 JOHN II.12.</hi>
+               </bibl>
+               <p>I write unto you Little Children, because your Sins are forgiven you, for his Names sake.</p>
+            </q>
+            <p>
+               <hi>LONDON:</hi> Printed for RICHARD SARE at <hi>Grays-Inn-Gate</hi> in <hi>Holborn,</hi> and to be sold by <hi>Henry White</hi> and <hi>William Shepey,</hi> Stationers in the <hi>Minories,</hi> 1700.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:205426:2"/>
+            <pb n="3" facs="tcp:205426:2"/>
+            <opener>
+               <salute>My good Child,</salute>
+            </opener>
+            <p>READ and Learn the Advice and Di<g ref="char:EOLhyphen"/>rections, which I now deliver to you: I intend them to improve your mind, and to save your Soul.</p>
+            <p>I mean nothing but your Interest here, and your Eternal Happiness hereafter: pray read and consider, and the Lord give you under<g ref="char:EOLhyphen"/>standing.</p>
+            <p>Remember my good Child, that there is a great <hi>God,</hi> who was maker of Heaven and Earth. Remember that thou thy self art one of <hi>his</hi> Creatures; <hi>In him thou dost live and move and hast thy Being.</hi> A good and gracious God unto thee; <hi>He formed thee and fashion'd thee in the Womb, in his Book were all thy Members written; and he sustained thee, while thou hanged yet upon thy Mothers Breasts.</hi> He has defended thee from a thousand dangers of In<g ref="char:EOLhyphen"/>fancy and Childhood; from Falls, from Fire, from the Accidents of every Day and Hour. It is his Mercy, that you have escaped so long with Life and Health, with sound Limbs and perfect Senses. His Mercy, that you are not a Cripple or a Changeling; his loving kindness, that you have any Breath in your Body, or any understanding in your Soul.</p>
+            <pb n="4" facs="tcp:205426:3"/>
+            <p>And sure, when God has done so great things for you, it is your part and duty to rejoice in the Lord, and to thank and praise, and love and serve your greatest <hi>Friend,</hi> your dearest <hi>Father</hi> which is in Heaven.</p>
+            <p>That you may the better offer up your Thanks and Praise to God, for all the bene<g ref="char:EOLhyphen"/>fits that <hi>he</hi> hath done unto thee; Pray take advice and meditate on these few Reasons, for which you should be chiefly thankful.</p>
+            <p>
+               <hi>First,</hi> my Child, thank God that you were born a reasonable Creature.</p>
+            <p>That Noble Creature <hi>Man,</hi> whom God made for the Perfection and the Glory of his whole Creation: God made his Body out of the Dust of the Earth, and breath'd into that Body a Living Soul. And so <hi>God made Ma<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> after his own likeness, in the Image of God crea<g ref="char:EOLhyphen"/>ted He him.</hi>
+            </p>
+            <p>Say unto thy <hi>Soul,</hi> O my Soul, bless Di<g ref="char:EOLhyphen"/>vine Providence, that I am so curiously and <hi>wonderfully made;</hi> that I am one of those ex<g ref="char:EOLhyphen"/>cellent Creatures, Sensible and Rational, o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> high and Honourable Descent, the Offsprin<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of God! What a blessing is it, that I wer<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> not a Brute void of Understanding: One o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Cattle of the Field, or of the Worms o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Earth; a Wild Beast, or a Creepin<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Thing! Give me Grace, O Lord, to val<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> this Blessing, and to live worthy of it. L<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> me improve my Reason, and let me increa<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> my Understanding. Thou O God hast ma<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="5" facs="tcp:205426:3"/>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e capable of Wisdom, if I will by In<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ustry attain unto it: But if by Idleness <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d Sloath I, become ignorant and brutish; <hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ke the Horse and the Mule that have no un<g ref="char:EOLhyphen"/>derstanding,</hi> then I debase humane Nature, and by making <hi>my self</hi> a Beast, I shall be a worse Monster, than if God Almighty had made me <hi>so.</hi>
+            </p>
+            <p>
+               <hi>Secondly,</hi> My Child be thankful to God that you were born of Christian Parents.</p>
+            <p>For Christian Birthright is a mighty Blessing, it gives you a Title to be in Co<g ref="char:EOLhyphen"/>venant with the Almighty, to be a Mem<g ref="char:EOLhyphen"/>ber of Christ, to be a Child of God, to be an Inheritor of the Kingdom of Heaven. Had your Parents been Jews, or Turks, or Infidels, you had been shut without the Gates of our Christian <hi>Jerusalem.</hi> You had lost the ordinary means of Grace and hopes of Glory. For you could not in your infancy have been admitted to the Com<g ref="char:EOLhyphen"/>munion of Saints; nor have been made a Member of the Holy Catholick Church. As, 1 Cor. 7.14. <hi>If your Parents had been Ʋnbelievers, then you Children had been un<g ref="char:EOLhyphen"/>clean; but now are ye Holy.</hi>
+            </p>
+            <p>
+               <hi>Say,</hi> Let me Love and Praise my God for this Right of inheritance: For being thus born capable to be Baptized, and Entitled to the early methods of Salvation. But then, let me consider, Religion is my very Birthright; I will not like Profane <hi>Esau sell
+<pb n="6" facs="tcp:205426:4"/> that Birthright.</hi> I will not turn Loofe and Profligate. I will <hi>not live without God in the World.</hi> Since my Parents were holy, I their Seed will be Holy. Being <hi>planted a No<g ref="char:EOLhyphen"/>ble Vine;</hi> I will not degenerate <hi>into a strange Plant;</hi> I will <hi>not bring forth Wild Grapes.</hi> As the Root was, so shall be the Branch. Since Christianity was the good Profession of my Father and my Mother, I my self resolve to be the better Christian.</p>
+            <p>
+               <hi>Thirdly,</hi> My good Child, thank God for the Blessing of being Baptized in your In<g ref="char:EOLhyphen"/>fancy.</p>
+            <p>For tho' your Parents were profest Christians. Yet you could not have been Sanctified by their Name, nor could you have been saved by their Title: You were still by Nature born in Sin, and a Child of Wrath; till by <hi>Baptism</hi> thou wast received into the Congregation of Christs Flock, and so had thy Death unto Sin, and thy new Birth unto Righteousness: and so were made a Child of Grace, and an Heir to the Kingdom of your Father in Heaven.</p>
+            <p>Commune with your own Heart, and <hi>say,</hi> how does it become me to walk <hi>worthy of this Vocation whereunto I am called.</hi> Surely I am bound to lead the rest of my Life according to this beginning. I must not hereafter be asham'd to confess the Faith of Christ Crucified. I will Manfully fight under his Banner against Sin, the
+<pb n="7" facs="tcp:205426:4"/> World and the Devil; Christ is the Cap<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>in of my Salvation, and I will continue <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s Faithful Souldier and Servant unto my Lives End.</p>
+            <p>An <hi>Apostate</hi> is one, who renounces his Religion, and a <hi>Reprobate</hi> is one who <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>alls away from all Grace and Good<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ess. If when I have been baptized a Chri<g ref="char:EOLhyphen"/>stian, I come to live like a Heathen; then am I a curst <hi>Apostate,</hi> and then am I a per<g ref="char:EOLhyphen"/>jured <hi>Reprobate:</hi> For my Baptismal Vows oblige me to renounce the Devil and all his Works; to believe the Articles of my Christian Faith, and to keep all the Com<g ref="char:EOLhyphen"/>mandements of God. And though by rea<g ref="char:EOLhyphen"/>son of my tender Age, I could not then perform these Vows; yet my Godfathers and Godmothers were Sureties for me; they Promised and Vow'd in my Name those things, which as I come to age, that is to Knowledge and Discretion, I my self am bound to perform.</p>
+            <p>God enable me to pay my Vows and to continue stedfast in that Faith and Profession, into which I am Baptized. To be Christen'd was to be made a Christian; I have the Name, and as it pleases God I will not have the naked <hi>Name,</hi> but I will live up to the <hi>Nature</hi> of my Holy Religion.</p>
+            <p>
+               <hi>Fourthly,</hi> my Child, bless the name of God for being early sent to School, and so put into a good Method of Education.</p>
+            <pb n="8" facs="tcp:205426:5"/>
+            <p>You can read in the Book of <hi>Job,</hi> that <hi>Man is born like a Wild Asses Colt:</hi> And you can find <hi>Solomon</hi> declare that <hi>Foolishness is bound up in the heart of a Child.</hi> By which you may perceive, that if you are bred as ignorant as you are born, you will then differ from a Brute, in little but your out<g ref="char:EOLhyphen"/>ward Shape.</p>
+            <p>It is Education, my Child, that must re<g ref="char:EOLhyphen"/>form you and refine you. It is Learning, that must exercise your Reason, and im<g ref="char:EOLhyphen"/>prove your Understanding; Or else you will be wild and wanton; you will be bar<g ref="char:EOLhyphen"/>barous and brutish; you will be a stupid and a sensless Wretch. And what good would your Life do you, without the wit of knowing how to live, or how to be<g ref="char:EOLhyphen"/>have your self in Life and Conversation!</p>
+            <p>Esteem it, my Child, a great blessing of Providence, that you are not kept at home in Wantonness and at your own Will; that you are not lingring in the Streets, nor standing all the Day idle in the Markets, but that you are sent to School for good Discipline and for wholson Instruction, to be <hi>train'd up from a Child in the way that you should go, that when you are Old, you may not depart from it.</hi>
+            </p>
+            <p>A great advantage to you, that you are taught to know the wonderful invention of Letters; that you can spell Syllables, and read whole Sentences, and so can find out the
+<pb n="9" facs="tcp:205426:5"/> Sense of Man, and the very will of God.</p>
+            <p>By this blessing, like young <hi>Timothy,</hi> you can <hi>know the Scriptures from a Child.</hi> By this blessing, like young <hi>Samuel,</hi> you can hear and distinguish <hi>the Voice of the Lord.</hi> By this benefit of early following your Ma<g ref="char:EOLhyphen"/>ster <hi>Jesus,</hi> you may be like St. <hi>John,</hi> you may be the younger and the more beloved Disciple.</p>
+            <p>Therefore, thus <hi>say</hi> unto thy self. Oh that God would give me grace to make a right use of this Blessing! And let me not be wanting to my self. Let me be careful and industrious to redeem my time, and to improve my Talents of Wit and Capa<g ref="char:EOLhyphen"/>city, of Apprehension and Memory. I must apply my head and my Heart to these ways of Knowledge, that I may make some pro<g ref="char:EOLhyphen"/>gress in them. How innocently proud should I be of imitating the Child <hi>Jesus,</hi> who <hi>increased in Wisdom</hi> as fast as he did <hi>in Stature,</hi> and grew up in <hi>favour</hi> both <hi>with God and Man.</hi> Whereas if I hate my Book, and grow wilfully dull; if my Eyes and my Thoughts are wandring some other way, if I make my self a Dunce and chuse to be a Fool; then my Folly will be my own <hi>fault,</hi> and my ignorance will be my proper <hi>Sin.</hi> Indeed if I had met with no opportunities of Learning; if I had been nurs'd up in profound Ignorance, and a habit of idle<g ref="char:EOLhyphen"/>ness; then I my self had been excused, and
+<pb n="10" facs="tcp:205426:6"/> the neglect must have been charg'd to my Parents and my Friends. But if they have put me into a hopeful method of In<g ref="char:EOLhyphen"/>struction, and I willfully despise that Me<g ref="char:EOLhyphen"/>thod; this is such a Sin and frailty of my Youth, as I shall dearly repent, if ever I grow Older and Wiser.</p>
+            <p>
+               <hi>My good Child.</hi>
+            </p>
+            <p>When you have thus looked back upon the Blessings which you happily enjoy, and have made to God the due return of Praise and Thanksgiving for them. Then think with thy self again, whether you can have any way to shew your self more grateful, whether you can do any thing that will be acceptable and well pleasing unto God, that shall as it were oblige him, and in some manner requite him. Yes, my good Child, there be many Duties on your part, that will be accepted as a suitable return for those Mercies, which God on his part has be<g ref="char:EOLhyphen"/>stowed upon you.</p>
+            <p>Let me direct you to these Duties with all the Affection of a Friend and a Spiritu<g ref="char:EOLhyphen"/>al Father.</p>
+            <p>
+               <hi>First,</hi> My Dear Child, learn how to Practise your Duty towards God.</p>
+            <p>You know it the advice of the wisest of Men, of <hi>Solomon,</hi> that <hi>you should remember your Creator in the days of your Youth.</hi> You know it a Charge given to your Parents by
+<pb n="11" facs="tcp:205426:6"/> the good Apostle, that you should be <hi>brought up in the Nurture and Admonition of the Lord.</hi> You know it was the care and kindness of our Lord <hi>Jesus,</hi> to receive lit<g ref="char:EOLhyphen"/>tle Children, to encourage them, and to bless them. You read these words in the Tenth Chapter of St. <hi>Mark, they brought young Children to Christ, that he should touch them, and his Disciples rebuked those that brought them; but when Jesus saw it, he was much displeased, and said unto them, suffer the little Children to come unto me and forbid them not, for of such is the Kingdom of God. Verily I say unto you, whosoever shall not re<g ref="char:EOLhyphen"/>receive the Kingdom of God as a little Child, he shall not enter therein. And he took them up in his Arms, laid his hands upon them and blessed them.</hi>
+               <q>My Beloved Child, you hear in this Gospel the Words of your Saviour Christ, that he commanded the Children to be brought unto him, how he blamed those that would have kept them from him; how he exhorteth all Men to follow their innocency; Ye perceive how by his out<g ref="char:EOLhyphen"/>ward gesture and deed, he declared his good Will toward them; for he embrace<g ref="char:EOLhyphen"/>ed them in his Arms, he laid his Hands up<g ref="char:EOLhyphen"/>on them and blessed them.</q>
+            </p>
+            <p>Again consider, that the youngest and most beloved Disciple, St. <hi>John</hi> wrote pur<g ref="char:EOLhyphen"/>posely to You, <hi>little Children.</hi> That Apo<g ref="char:EOLhyphen"/>stle seemed to have so much Innocence and
+<pb n="12" facs="tcp:205426:7"/> Goodness of Nature, as recommended him to the more particular Favour and Friend<g ref="char:EOLhyphen"/>ship of our Blessed Lord. For he was al<g ref="char:EOLhyphen"/>lowed to lean upon his Master's Bosom, and the other Disciples thought him the greater Favourite, St. <hi>John</hi> 13.23. Now as the Love of Children is a common Sign of Good Nature, this Apostle expres<g ref="char:EOLhyphen"/>ses his Care and Concern, his Love and Kindness for You, <hi>little Children.</hi> Great part of an Epistle is directed to You, his first Epistle, where he begins the second Chapter with an Address to you, <hi>My little Children these things write I unto you, that ye Sin not.</hi> Again in the twelfth Verse, <hi>I write unto you little Children, because your Sins are forgiven you for his Name Sake.</hi> And in the next Verse, he not only writes unto the <hi>Fathers,</hi> and unto the <hi>Young Men,</hi> but unto you likewise <hi>little Children.</hi>
+            </p>
+            <p>Here is Good Encouragement, my little Child, to offer up the first Fruits of thy Life and Health to Heaven, to <hi>receive the Kingdom of God as a little Child,</hi> and so be the more sure and more worthy to enter into it.</p>
+            <p>In order to this my Child. <hi>First,</hi> You should no sooner learn to Speak, than you should learn to Pray. God will open your Lips the more plainly, if they begin with calls to Heaven. God will the better, loosen your Tongue, if it be early employ'd in Devotions. By this you may know, that
+<pb n="13" facs="tcp:205426:7"/> God will hear you, because you are yet Innocent of any great Offence.</p>
+            <p>Your Saviour was best pleased, when the very Children cried Hosanna, and said, <hi>Out of the Mouths of Babes and Sucklings hast thou perfected Praise.</hi>
+            </p>
+            <p>Some short form of Prayer, such as thou shalt find at the end of this Book, do thou diligently learn, and carefully remember: and particularly that form, which your own Saviour taught you, and is therefore called thy <hi>Lord's Prayer.</hi> Use <hi>this</hi> daily with one or more short Prayers, and a Conclusion to beg God's Blessing on your Parents and your Relations. When you rise up in the <hi>Morning,</hi> so begin the Day, and when at <hi>Night,</hi> you take your rest, so commend your Soul to God, and then fear no Evil that can happen to you.</p>
+            <p>
+               <hi>Secondly,</hi> My Child, next to your Pray<g ref="char:EOLhyphen"/>ers, be forward to learn your Catechism.</p>
+            <p>You may read in the New Testament, that <hi>Catechising</hi> was the very Exercise of Religion to which your Saviour did accus<g ref="char:EOLhyphen"/>tom himself in his young and tender Age; <hi>When he was twelve Years old, He went up to Jerusalem,</hi> and entred into the Temple or Jewish Church, and there was Catechised by the Doctors or Ministers, and per<g ref="char:EOLhyphen"/>form'd this Holy Exercise so well, that they were all <hi>astonish'd at his Ʋnderstanding and Answers.</hi>
+            </p>
+            <pb n="14" facs="tcp:205426:8"/>
+            <p>To Follow your Blessed Saviour's Exam<g ref="char:EOLhyphen"/>ple may be a Comfort and an Honour to you. The <hi>Church Catechism</hi> is all of it short enough for your Memory; and most of it plain enough for your Understanding. Or if there be some things too hard for you, in time God will reveal them to you. You must first have the Words, and by Degrees you will have the Sense and Meaning of them.</p>
+            <p>
+               <hi>Thirdly,</hi> My Child, be Diligent and Con<g ref="char:EOLhyphen"/>stant in going to Church.</p>
+            <p>The Jews were commanded to go to their publick place of Worship with their Wives and their little Ones. Whence you find in St. Mat. 21.15. the <hi>Children Crying in the Temple, and saying, Hosanna to the Son of</hi> David.</p>
+            <p>If you do not yet understand the publick Offices of Religion, yet be present at them, that you may the sooner learn them. The Church is a Place, where God sends down his Blessing, be there ready to receive it. Like Holy <hi>David,</hi> be glad, my Child, when thy Parents or their Servants say un<g ref="char:EOLhyphen"/>to thee, <hi>Let us go up to the House of the Lord.</hi>
+            </p>
+            <p>When you come near the Porch or En<g ref="char:EOLhyphen"/>trance of the Church, there pause a while and prepare your Heart with this short Ejaculation.</p>
+            <q>
+               <pb n="15" facs="tcp:205426:8"/>I will keep my Foot, when I go into the House of God, and be more ready to Hear, and Pray, and Praise, than to offer the Sacri<g ref="char:EOLhyphen"/>fice of Fools, who consider not, that they do Evil.</q>
+            <p>When you come within the Church, my Child, remember, that the Place whereon you <hi>stand is Holy Ground:</hi> and therefore pay some due Reverence by putting off your Hat, bowing your Head, bending your Knee, or the like. If you enter the Church like a Stable, in a rude and inde<g ref="char:EOLhyphen"/>cent Manner, you will seem to <hi>despise the Church of God,</hi> and to profane that House, which he hath called Holy.</p>
+            <p>When you come to your proper Seat or Pew, there again consider, that your Bu<g ref="char:EOLhyphen"/>siness to Church, is to serve your God and to save your Soul. And to fit and prepare thy self for this serious and sacred Work, offer this or the like Prayer unto God.</p>
+            <q>Blessed be thy Name O Lord, for giving me this Opportunity of Publick Worship in thy House. O let the Thoughts of my Heart and the Words of my Mouth be now ac<g ref="char:EOLhyphen"/>ceptable in thy sight, O Lord my Strength and my Redeemer.</q>
+            <p>After this, refrain your Eyes, and set a Watch before the Door of your Lips. Do
+<pb n="16" facs="tcp:205426:9"/> not by any Laughing or Whispering seem to forget where you are. Be quiet and compos'd. Behave thy self with Reverence and Godly Fear.</p>
+            <p>When Prayers are begun, then pati<g ref="char:EOLhyphen"/>ently attend to the Lips of the Priest, and at the end of each Prayer and Thanksgiv<g ref="char:EOLhyphen"/>ing, devoutly say, <hi>Amen.</hi> Bear all other Parts in the publick Service that are al<g ref="char:EOLhyphen"/>low'd to the Congregation or People: that is, make the Responses clearly and distinctly. Read each other Verse in the Psalms with an Audible Voice. Joyn in the Repetition of the Creed; and think my Child, no Musick so agreeable as this Con<g ref="char:EOLhyphen"/>sort of Devotion.</p>
+            <p>While the <hi>Psalms</hi> are Singing, believe this an excellent Way of Rejoycing in the Lord, and as far as your Voice and little Skill will enable you, be one of the Num<g ref="char:EOLhyphen"/>ber of the Singers, and so help to <hi>praise God with the best Member that you have.</hi>
+            </p>
+            <p>In the <hi>Prayer before Sermon,</hi> stir up a<g ref="char:EOLhyphen"/>gain thy Soul unto Devotion, and hope for a share in all those Blessings which the Minister calls down on the Congregati<g ref="char:EOLhyphen"/>on.</p>
+            <p>And when the <hi>Sermon</hi> does begin, give all Heed and Diligence. Being able to use your Bible, turn unto the <hi>Text,</hi> and read it to consider and to remember; If you<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Judgment cannot so well comprehend the
+<pb n="17" facs="tcp:205426:9"/> Subject and Method of the Sermon; yet the <hi>Text</hi> alone, if well remembered may be a useful and a comfortable Saying, and may at some other time suggest unto thee a great many good Thoughts and Medita<g ref="char:EOLhyphen"/>tions. However listen carefully to all the following Discourse, and especially to the Sentences, and to the Examples of Holy Scripture. As <hi>a new born Babe desire the sin<g ref="char:EOLhyphen"/>cere Milk of the Gospel, that you may grow thereby; grow in Grace, and in the Knowledge of our Lord and Saviour Jesus Christ.</hi> So that being early instructed and confirmed in the true Principles of Religion, you may be hereafter stedfast and unmoveable; and when you come to be a Man, may not then be like <hi>Children tossed too and fro with every Wind of Doctrine, by the cunning Craf<g ref="char:EOLhyphen"/>tiness of those who lie in wait to deceive.</hi>
+            </p>
+            <p>When <hi>Church is done,</hi> my Child, do not seem in hast to fly from the Lord's House. First offer up a private Request to God for a right Use of his Holy Ordinances, in this or the like Form.</p>
+            <q>Glory be to thee, O Lord, for admitting Me this time to thy House and thy Ser<g ref="char:EOLhyphen"/>vice: Accept my Prayers and Thanks<g ref="char:EOLhyphen"/>givings. And Lord make me a Doer of thy Word, not a Hearer only, lest I de<g ref="char:EOLhyphen"/>ceive my own Soul.</q>
+            <pb n="18" facs="tcp:205426:10"/>
+            <p>After this when the Assembly is depart<g ref="char:EOLhyphen"/>ing, do thou walk leisurely out in due time and order; not running or thrusting to be gone, but Grave and Silent▪ medi<g ref="char:EOLhyphen"/>tating upon the Truth, and resolving upon the Practice of somewhat that you have heard.</p>
+            <p>If there be any <hi>other Opportunities</hi> of Publick Worship in God's House upon the same Day, with your Parents leave return again, and be glad to repeat the same Duties of Religion. Be not weary in well doing, but persevere unto the end,</p>
+            <p>In the Evening at <hi>Home,</hi> be willing that your Parents or Governours should call you to repeat the Text, or to give some little Account of the Sermon, or to read a Chapter, or to sing a Psalm, or to joyn in any other Exercise of Religion: O Bless God for these Means of Spiritual Improve<g ref="char:EOLhyphen"/>ment! This is the Way to <hi>come in the Ʋni<g ref="char:EOLhyphen"/>ty of the Faith, and of the Knowledge of the Son of God, unto a perfect Man, unto the Mea<g ref="char:EOLhyphen"/>sure of the Stature of the fulness of Christ,</hi> Ephes. 4.13.</p>
+            <p>After one day so spent in God's Courts, and the publick Services of Religion, con<g ref="char:EOLhyphen"/>clude with this thought: That as <hi>Sunday</hi> is more especially the Lord's Day, and de<g ref="char:EOLhyphen"/>dicated to his peculiar Honour: So all the <hi>Week</hi> after should not be rudely and pro<g ref="char:EOLhyphen"/>fanely spent, as if one Holy Day could
+<pb n="19" facs="tcp:205426:10"/> atone for the six other to be kept Common and Unclean. No, by a Good Conscience, and a Good Conversation, rather Sanctify every Day to be a Sabbath unto the Lord, by resting from Sin, and by doing any Work of the Lord not Negligently. Let your private Devotions never be omitted; Early in the Morning crie unto God, and in the Night Season also, take no rest, till you have offered up your Evening Sa<g ref="char:EOLhyphen"/>crifice of Prayer and Thanksgiving.</p>
+            <p>
+               <hi>Fourthly,</hi> My Child, by this daily Prac<g ref="char:EOLhyphen"/>tice of Piety, you will by Degrees be sitted and prepared for the Benefit of <hi>Confirmation.</hi>
+            </p>
+            <p>For being now able to say the Creed, the Lord's Prayer, and the Ten Command<g ref="char:EOLhyphen"/>ments, and likewise to answer to such other Questions as in the short Catechism are con<g ref="char:EOLhyphen"/>tained: you will soon come to a compe<g ref="char:EOLhyphen"/>tent Age, and to Years of Discretion: <q>when having learned what your Godfa<g ref="char:EOLhyphen"/>thers and Godmothers did promise for you in your Baptism, you your self with your own Mouth and Consent may openly before the Church Ratify and Confirm the same, and also promise by the Grace of God, that you will evermore endeavour your self to observe such things, as by your own Confession you then assent unto.</q>
+            </p>
+            <p>To this end, you must desire to be brought unto the <hi>Bishop</hi> to be Confirmed by him, and being presented to the <hi>Bishop</hi>
+               <pb n="20" facs="tcp:205426:11"/> by the Minister of your Parish, being pla<g ref="char:EOLhyphen"/>ced in the Chancel, and standing among other young Persons, in order, before the <hi>Bishop;</hi>
+               <q>You shall then and there in the presence of God, and all the Congrega<g ref="char:EOLhyphen"/>tion, renew the solemn Promise and Vow that was made in your Name at your Baptism, Ratifying and Confirming the same in your own Person; and acknow<g ref="char:EOLhyphen"/>ledging thy self bound to believe and to do all those things, which your God<g ref="char:EOLhyphen"/>fathers and Godmothers then undertook for you.</q>
+            </p>
+            <p>When after suitable Prayers, the <hi>Bi<g ref="char:EOLhyphen"/>shop</hi> will lay his Hand upon thy Head, and pronounce this Blessing on thee. <q>De<g ref="char:EOLhyphen"/>fend, O Lord, this thy Child with thy Heavenly Grace, that <hi>He</hi> may continue thine for ever, and daily encrease in thy Holy Spirit more and more, untill <hi>he</hi> come to thy everlasting Kingdom, <hi>Amen.</hi>
+               </q>
+            </p>
+            <p>
+               <q>And the Bishop and his Flock will a<g ref="char:EOLhyphen"/>gain make their humble Supplications unto God for thee his Servant, upon whom (after the Example of the Holy Apostles) he has now laid his Hands, to certify thee (by this Sign) of God's Fa<g ref="char:EOLhyphen"/>vour and Gracious Goodness towards thee, that his Fatherly Hand may be ever over thee, that his Holy Spirit may be ever with thee, and that he would so lead thee in the Knowledge and Obe<g ref="char:EOLhyphen"/>dience
+<pb n="21" facs="tcp:205426:11"/> of his Word, that in the end thou <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ay'st obtain Everlasting Life.</q>
+            </p>
+            <p>Or if you live in such a Place, as where no <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>pportunity shall offer for <hi>confirmation,</hi> then you must at least wish and desire it; as be<g ref="char:EOLhyphen"/>ing satisfied by the Rules of your Church, that you ought not hereafter to be admit<g ref="char:EOLhyphen"/>ted to the Holy Communion, untill such time as you, are Confirm'd, or be ready and desirous to be Confirm'd.</p>
+            <p>Being thus instructed, my Dear Child, in your Duty toward God, think and me<g ref="char:EOLhyphen"/>ditate on these things, and thus resolve in thy own Conscience.</p>
+            <p>I have a Soul to save, to save from Eter<g ref="char:EOLhyphen"/>nal Fire, to save unto Everlasting Joys. <hi>What will it profit me to gain the whole World and lose this Soul, or what shall I give in ex<g ref="char:EOLhyphen"/>change for this Soul of mine!</hi> By the constant practice of Piety I will <hi>work out my Salva<g ref="char:EOLhyphen"/>tion,</hi> and do all that is possible, to make my <hi>calling and election sure.</hi>
+            </p>
+            <p>This is the good Foundation, that will edifie or build me up to Heaven. Nay, this is the right Foundation, even to raise my Fortune in this World: For if in the Days of my Youth, I remember my Creator, if I know him, love him, and serve him; then will his Blessing go along with me, and make my ways to prosper. And I shall have more of the Affection of my Parents, and the favour of my Relations, and the
+<pb n="22" facs="tcp:205426:12"/> good will of all my Acquaintance, I shall have the better Name, and Credit, and In<g ref="char:EOLhyphen"/>terest, and be the more likely to Thrive and Flourish. God be with me and who shall be against me?</p>
+            <p>In the <hi>Second Place,</hi> my dear Child, next thy Duty toward God, consider and Practice thy Duty to thy Parents.</p>
+            <p>You must feel this, my Child, to be an instinct of Nature, and it would be the greatest reproach in the World for you to be <hi>without natural affection.</hi> You cannot but know this to be the Rule of Equity and Reason, to be Grateful and Dutiful to them who gave you Life, and all the support of it; your Being and your well Being.</p>
+            <p>Above all, you must confess this to be a great Office of Religion; in this you obey God, and serve your Maker. For One of his Ten Commandments in the Moral Law is to <hi>honour thy Father and thy Mother.</hi> And many of his Precepts in the Gospel are for Children <hi>to obey their Parents because this is right,</hi> and to <hi>obey them in all things, because this is well pleasing to the Lord.</hi>
+            </p>
+            <p>Of this duty the <hi>holy Child Jesus</hi> set thee a good Example; for tho he being God made Man was far above a Mortal Parent, yet he paid them attendance and submission <hi>He went down with them, and was subject to them.</hi> St. Luke. 1.51.</p>
+            <pb n="23" facs="tcp:205426:12"/>
+            <p>The <hi>first</hi> duty my Child, that you owe <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>to your Parents, is to beg their Blessing Night and Morning.</p>
+            <p>This is a proper Testimony of your re<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>pect and reverence, by <hi>this</hi> you acknow<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>edge dependance and subjection, you con<g ref="char:EOLhyphen"/>fess as Heb. 7.7. That <hi>the Less is blessed of the Better.</hi> And by this, you may express a firm beleif, that if your Parents bless you in God's name, you shall be the more bles<g ref="char:EOLhyphen"/>sed in your generation. <hi>I have blessed him</hi> saies <hi>Isaac</hi> of his Son, <hi>yea and he shall be bles<g ref="char:EOLhyphen"/>sed.</hi>
+            </p>
+            <p>For this was the good old Custom in the very times of the Prophets and the Patri<g ref="char:EOLhyphen"/>archs: The Sons of <hi>Isaac</hi> were bred up to this laudable Practice. <hi>Jacob</hi> did beg that his Fathers Soul might bless him; and even <hi>Esau</hi> was importunate in crying out, <hi>bless me, even me also, O my Father,</hi> Gen. 27.19.</p>
+            <p>Those Ungracious Children who re<g ref="char:EOLhyphen"/>fuse or neglect to kneel down and crave their Parents blessing; even the Profane <hi>Esau</hi> shall rise up in Judgment and con<g ref="char:EOLhyphen"/>demn them.</p>
+            <p>Say unto thy self, my Child. I will not be guilty of this Sin of Omission. I will at first sight of my Parents in the Morn<g ref="char:EOLhyphen"/>ing, and in my last taking leave at Night, I will fall on my Knees before them, and say to this effect.</p>
+            <q>
+               <pb n="24" facs="tcp:205426:13"/>Pray Father (or Mother) bless me, and beg God's Blessing on me, to make me his faithful Servant, and your obedient Child.</q>
+            <p>The <hi>Second</hi> Duty, my Child, unto your Parents, is to pay them all civil respect and reverence.</p>
+            <p>You must stand in awe before them; you must rise up in good Manners to them, you must bow the head, and bend the knee, and use all those becoming gestures and postures, which according to your Sex and Age are the customary tokens of Respect and Honour.</p>
+            <p>You read, that Solomon, even when a king did obeisance to <hi>Bathsheba</hi> his subject Mother: and when she came to him sitting on his Throne, <hi>he rose up to meet her, and bow'd himself unto her,</hi> 1 Kings 2.19.</p>
+            <p>Whereas to be Rude and Saucy, to be froward and impudent before your Pa<g ref="char:EOLhyphen"/>rents, to shew no breeding in their presence, and to pay no respect unto their Persons. This is to despise them, and to mock them; which if it does not bring the correction of your Parents, it will bring the Judgment of God upon you; for think often upon <hi>Proverbs,</hi> 30.17. <hi>The Eye that mocketh at his Father, and despiseth to obey his Mother, the Ravens of the Valley shall pick it out, and the young Eagles shall eat it.</hi>
+            </p>
+            <pb n="25" facs="tcp:205426:13"/>
+            <p>The <hi>Third</hi> Duty, my Child, unto your Parents, is to hearken to their Counsel, and to follow their Advice; to stand cor<g ref="char:EOLhyphen"/>rected at their Reproof, and to amend up<g ref="char:EOLhyphen"/>on their Admonition. My good Child be<g ref="char:EOLhyphen"/>lieve thy Parents to be Wiser than thy self. Be satisfied they mean nothing but your Interest and Good; confess, it is their right to direct and lead; be sensible, it is thy duty to follow and comply.</p>
+            <p>Thy Parents will the better love thee, and God will the more bless thee. <hi>Solomon</hi> saith to thee and to every wise Child, <hi>my Son hear the instruction of thy Father, and for<g ref="char:EOLhyphen"/>sake not the law of thy Mother, for they shall be an ornament of grace unto thy head, and Chains about thy Neck.</hi>
+            </p>
+            <p>If your Parents should have so much pas<g ref="char:EOLhyphen"/>sion, as to seem <hi>to provoke their Children un<g ref="char:EOLhyphen"/>to wrath, and to be bitter against them.</hi> Though this be forbidden to them, yet you must be tender of so judging of them. You had better in silence withdraw, till their Anger has given place to Reason, till they are cool, and easie to be entreated.</p>
+            <p>Your <hi>last</hi> Duty, My Child, unto your Parents, is to submit to any Punishment or Correction, that they shall think proper to lay upon you.</p>
+            <p>Alass many are the Follies and Frailties of your Youth, and would be many more, if you were left to your own Will, and
+<pb n="26" facs="tcp:205426:14"/> were restrained by nothing but your own Discretion. You read in a Book of the Wisest Man, that <hi>Foolishness is bound up in the Heart of a Child, and that it is the Rod of Correction that must bring it out.</hi> You read again, that the <hi>Rod and Reproof give Wis<g ref="char:EOLhyphen"/>dom, but a Child left to himself bringeth his Mother to Shame.</hi>
+            </p>
+            <p>Your Parents have this Authority over thee, and they best know when to exercise this Authority upon thee. It is your Of<g ref="char:EOLhyphen"/>fence and Fault, it is their Care and Love, such an Instance of Love as God himself makes use of, to justifie the afflicting his Be<g ref="char:EOLhyphen"/>loved Ones. <hi>For whom the Lord loveth, he Chasteneth, and Scourgeth every Son whom he receiveth. If ye endure Chastning, God deal<g ref="char:EOLhyphen"/>eth with ye as with Sons; for what Son is he, whom the Father chasteneth not?</hi>
+            </p>
+            <p>If you are apt to think, that there is somewhat of Partiality and Passion, or more Indulgence to another than to thee▪ yet do not thou murmur or complain: but still Honour and Obey. You find it the Apostles argument, <hi>Furthermore we have had Fathers of our Flesh, which corrected us, and we gave them reverence; though they verily for a few days chastned us after their own Pleasure.</hi>
+            </p>
+            <p>Think much upon thy Parents, dear Child, and thy Duty to them, and thus Commune with thy own heart.</p>
+            <pb n="27" facs="tcp:205426:14"/>
+            <p>What a Mercy it is, that I am not an Or<g ref="char:EOLhyphen"/>phan destitute and forlorn, left a Prey to those false Friends, who eat the Bread of the Fatherless. It is my great happiness to have my Parents, or at least one of them, alive; to defend me, to maintain me, to provide for me. What return can I make worthy and sufficient? If to be dutifull and obedient can be any recompence, I will not be ungratefull, unnatural, ungodly. My Parents are in full and just Authority, I will come, when they bid me come; I will go, when they bid me go; I will do this or that, when they bid me do it. I will not answer again, nor make excuses and pre<g ref="char:EOLhyphen"/>tences to some other time: I will not serve them with a little Eye service out of policy or fear, but serve them with singleness of heart, and with a chearfull Mind.</p>
+            <p>If it were possible indeed that my Pa<g ref="char:EOLhyphen"/>rents should bid me Lie or Steal, or do an ill thing; then I would modestly and sted<g ref="char:EOLhyphen"/>fastly refuse, as knowing it in such case to be my duty to <hi>obey God rather than Man.</hi> But while they require of me nothing, but what is good or at least indifferent: then I am not to shift off, nor to delay my obedience. I am bound to oblige my Earthly Parents with that sincerity and readiness, which my blessed Saviour shewed unto his Heavenly Father, when it was written of him, I <hi>have fulfilled thy Will, yea, I am content to do it with my whole heart.</hi>
+            </p>
+            <pb n="28" facs="tcp:205426:15"/>
+            <p>In short by Humility and Compliance, by Submission and Respect, by Fear and Love, by all ways and means, I will please my Parents, and win upon their Affections, that I may enjoy God's blessing and theirs.</p>
+            <p>For I know, that the promise of Happi<g ref="char:EOLhyphen"/>ness in this World, is entailed or settled upon good and obedient Children. <hi>Ho<g ref="char:EOLhyphen"/>nour thy Father and Mother, that thy days may be long in the Land, which the Lord thy God giveth thee. This is the First Command<g ref="char:EOLhyphen"/>ment with Promise</hi> from him whose promi<g ref="char:EOLhyphen"/>ses do never fail.</p>
+            <p>By the little Experience I have already gain'd, I shall be soon able to observe, that s e <hi>Young Persons</hi> are best disposed of in the World, and most Thrive and Prosper in it, who were Dutiful Children; who took their Parents Advice, and fol<g ref="char:EOLhyphen"/>lowed their Directions: While <hi>those</hi> an commonly low and poor, are Mean <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Miserable, who were Obstinate and Diso<g ref="char:EOLhyphen"/>bedient Children, stubborn in their o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Wills, and perverse in their own Ways who like the Prodigal in the Gospel r<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> away from their Fathers House, but nev<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> again return, to repent and be reconcil'd.</p>
+            <p>
+               <hi>Thirdly,</hi> Next to God and to your P<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>rents, you must learn my Child, your D<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ty to your Brothers and Sisters and Se<g ref="char:EOLunhyphen"/>vants of the same Family with you.</p>
+            <pb n="29" facs="tcp:205426:15"/>
+            <p>If you happen to be the <hi>only Child,</hi> you are the more bound to be Dutiful and Good: For if thou art the One and All, then like the beloevd <hi>Benjamin,</hi> thy <hi>Parents life will be bound up in their Childs Life:</hi> And if you take ill Courses, and willfully mis<g ref="char:EOLhyphen"/>carry in the World, <hi>you may bring your Pa<g ref="char:EOLhyphen"/>rents gray Hairs with sorrow to the Grave.</hi>
+            </p>
+            <p>But if you have other Brothers to Sis<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rs, you must think them Near and Dear unto you. You are one, as it were, in Flesh and stood, and ought therefore to be of <hi>one Heart</hi> and of <hi>one Mind.</hi> The Elder to help the Younger, and the Younger to respect the Elder; and in all good Offices of Love, <hi>N<gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> before or after another.</hi>
+            </p>
+            <p>You know the Scriptures call the most e<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>re Affection by the name of <hi>Brotherly Love:</hi> And when they would Exhort Ch<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>stians to be the most intimate and cor<g ref="char:EOLhyphen"/>dial Friends, they persuade them then <hi>to love as Brethren.</hi> If by a Peevish temper, or in a Quarrelsom humour, you rise against <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Brother and contend with him, then art <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ou becoming like unto cursed <hi>Cain;</hi> and <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r little Heats and Fewds, you may be <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ought to greater heart-burnings, and <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>erhaps have thy <hi>Brothers Blood cry for ven<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ce on the from thee Ground.</hi>
+            </p>
+            <p>Say, I will love a Brother and a Sister <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s a second self; as <hi>Bone of my Bone, and <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lesh of my Flesh.</hi> We will defend and as<g ref="char:EOLhyphen"/>sist
+<pb n="30" facs="tcp:205426:16"/> one another. We will exchange Souls in mutual Embraces, and mutual good Of<g ref="char:EOLhyphen"/>fices. We will not carry Lies and Stories to incense our Parents, nor raise Jealousies and Suspicions to provoke our selves. None of us will envy the greater Darling, nor despise the less Favourite. With Eyes of pity, and with Bowels of Compassion, we will be kindly affectioned one towards ano<g ref="char:EOLhyphen"/>ther.</p>
+            <p>And even to the <hi>Servants</hi> of your House, you must behave your self, my Child, well and wisely; you must not treat them with any proud look, nor with any scornful Words. You must not create them Anger by any Officious Tales, or by any Frivolous Complaints; nor give them needless trouble by any Childish Humours. You must keep peace and Family Order▪ you must not let the <hi>House</hi> by your Fault <hi>be divided against it self.</hi>
+            </p>
+            <p>A good natur'd Servant you must use, as <hi>Philemon</hi> should have done <hi>Onesimus, as now as a Servant, but above a Servant, a Bro<g ref="char:EOLhyphen"/>ther Beloved.</hi>
+            </p>
+            <p>While thou art a Child, thou oughtest not to be a Lord and Master: thou ought<g ref="char:EOLhyphen"/>est not to Regin and Domineer. Thou a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> rather in the Condition of serving. Fo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Holy Scripture tells thee, <hi>The He<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> while he is a Child differeth nothing from Servant, tho he be Lord of all.</hi>
+            </p>
+            <pb n="31" facs="tcp:205426:16"/>
+            <p>Alas the meanest Servant if faithful and Industrious, may come to a better Conditi<g ref="char:EOLhyphen"/>on than the Master's Child, if that Child be ignorant and idle. <hi>Solomon</hi> understood the course of the World, and the Pleasure of God, when he said <hi>Prov.</hi> 17.2. <hi>A wise Servant shall have rule over a Son that causeth shame.</hi>
+            </p>
+            <p>
+               <hi>Fourthly,</hi> My Child, You must learn your Duty to your Masters and Teachers.</p>
+            <p>Oh consider the infinite Benefit and Bles<g ref="char:EOLhyphen"/>sing of being sent to School for Religion, Learning, and Good Manners.</p>
+            <p>Be sensible, poor Child, what a Wretch and a Fool you shall hereafter be, without the knowledge of your Letters, without the Faculty of Reading, and the Pleasure of Understanding what you read. Your Birth will prove no comfort without this sort of Breeding added to it. What Good will your Life do unto you, if you were con<g ref="char:EOLhyphen"/>demn'd to spend it like a Wild Beast in ig<g ref="char:EOLhyphen"/>norance and ease; or like a Beast of bur<g ref="char:EOLhyphen"/>den, in hanging your Head, and <hi>ever bow<g ref="char:EOLhyphen"/>ing down your Back.</hi>
+            </p>
+            <p>This, my Child, should make you have a high esteem, and a mighty Veneration for <hi>those,</hi> to whose charge you are committed, to be Govern'd and Instructed by them.</p>
+            <p>They are teaching thee the use of thy Reason, and the Grounds of thy Religion; they take a great deal of Pains and Trouble
+<pb n="32" facs="tcp:205426:17"/> with thee. They are forced to <hi>give</hi> thee <hi>Line upon Line, and Precept upon Precept,</hi> to suggest, to explain, to repeat over and over: to exercise their own Patience in condescending to thy Capacity, and mak<g ref="char:EOLhyphen"/>ing allowance for a thousand of thy Infir<g ref="char:EOLhyphen"/>mities.</p>
+            <p>For these Good Reasons, my Child, you ought to have them in Love and Honour, and to esteem them highly for their <hi>Works sake.</hi> You are as much indebted to a Good Teacher as <hi>Philemon</hi> was to St. <hi>Paul. You owe unto him even thy own self, or thy own Soul besides,</hi> Philem. 19. that is, you owe unto him your Education and your Improve<g ref="char:EOLhyphen"/>ment; without which you your self had been in a manner besides your self, your Soul had been a useless thing.</p>
+            <p>My Child, Look upon thy Teachers as thy second Parents: know the Duty of the fifth Command does reach to thy School Master and thy School Mistress as well (tho not as much) as to thy Father and Mother. Thy Catechism does rightly inform thee, that the sense of that Commandment is not only to love, honour, and succour, thy Father and Mother, but to submit thy self to all thy Governours, Teachers, Spiritual Pa<g ref="char:EOLhyphen"/>stors and Masters.</p>
+            <p>Reflect, my Child, and thus resolve. I will reverence their Persons, I will hearken to their Words, I will observe their Rules,
+<pb n="33" facs="tcp:205426:17"/> I will conform my self to all their Advice and Orders. I will bear their Reproof and Consider. I will submit to their Cor<g ref="char:EOLhyphen"/>rection and Amend. I am satisfied, there will be nothing that can give me so good a Character, as to be a forward Scholar, and an early Christian.</p>
+            <p>
+               <hi>Fifthly,</hi> My Child, you must learn your Duty to your Companions and School-fel<g ref="char:EOLhyphen"/>lows.</p>
+            <p>Those Children that learn with you, and play with you, that are your most constant Companions and most familiar Friends. Here is the best Foundation for good Acquaintance, for continual Love and Friendship. Every School-Fellow is what St. <hi>Paul</hi> said of <hi>Clement,</hi> thy <hi>Fellow-Labourer,</hi> and as of another, thy <hi>true Yoke-Fellow.</hi> Ye ought to be affectionate and innocent as Doves; free and harmless as Lambs. Ye ought to joyn your Hands and your Hearts to help and to serve one another.</p>
+            <p>Be not cross or surly to any of them. Do not insult over them that are Weaker or Poorer than thou art. Never strike one who is more a Child than thy self. Do not mock or jeer; Do not call any one by a false and opprobrious Name: Do not upbraid them with any scandal of their Friends; Do not expose them for their own Natural Infirmities.</p>
+            <pb n="34" facs="tcp:205426:18"/>
+            <p>Make no needless Complaints against them; Tell no silly Stories of them. In<g ref="char:EOLhyphen"/>deed when your Governours command, you must tell the Truth. But otherwise conceal their Faults, and excuse their lit<g ref="char:EOLhyphen"/>tle Follies, to save them from Anger, and to deliver them from Punishment; that you may love them, and be beloved by them.</p>
+            <p>
+               <hi>Lastly,</hi> my dear Child, be civil and cour<g ref="char:EOLhyphen"/>teous to all other Persons whatsoever.</p>
+            <p>To all Persons according to their Age and Degree. <hi>Give</hi> to all <hi>their due, Custom to whom Custom, Honour to whom Honour is due.</hi>
+            </p>
+            <p>To Antient People be very tender and respectful. Think their Gray Hairs to be an Ornament of Wisdom, and their Hoary Head to be a Crown of Glory. Rise up before them, Give place unto them; Help them, and Honour them. The Apo<g ref="char:EOLhyphen"/>stle writes unto you, <hi>Likewise ye Younger submit your selves unto the Elder.</hi>
+            </p>
+            <p>To all other Persons that are your Bet<g ref="char:EOLhyphen"/>ters, do as your Catechism directs, order thy self Lowly and Reverently to them. Give them their due Titles, and pay every proper Respect unto them. Above all, to the King as Supreme, and to Magistrates that are put in Authority under him.</p>
+            <p>And particularly those that are Gover<g ref="char:EOLhyphen"/>nours and Pastors in the Church, pay a singular Duty to them for the sake of their
+<pb n="35" facs="tcp:205426:18"/> Holy Office. Reverence the <hi>Bishops</hi> as Spiritual Fathers, bow down and kneel before them, ask their Blessing, because Good old Custom so obtain'd, and because they are more eminently set apart, in God's Name to Bless the People.</p>
+            <p>And to all other Clergy-Men shew decent Civility and Respect. If thou art of the Number of those Boys who are taught in the Hospitals, or in the Charity-Schools in or about <hi>London,</hi> I presume thou art then charged strictly by thy Master, to meet no Minister in the Streets, without put<g ref="char:EOLhyphen"/>ting off thy Cap, and bowing down thine Head. A Method of Piety and Good Man<g ref="char:EOLhyphen"/>ners, that will much help to reclaim this City, and in time to reform this Nation.</p>
+            <p>For indeed, Child, Nothing has so much corrupted our latter Age, and debauch'd the Morals of our present Generation: Nothing so much, as the irreverence and disrespect shewn to the Ministers of God. Hence Atheism, Profaneness, and all man<g ref="char:EOLhyphen"/>ner of Irreligion, because the very Chil<g ref="char:EOLhyphen"/>dren have been taught to think the Name of <hi>Parson</hi> to be a Name of Reproach; and to believe that a <hi>Priest,</hi> like <hi>Jeroboam's</hi> Crew, is one of the <hi>meanest of the People.</hi>
+            </p>
+            <p>And yet they are the <hi>Embassadors of Christ,</hi> of whom he said, <hi>Whoso despiseth you despi<g ref="char:EOLhyphen"/>seth me, and he who despiseth me, despiseth him that sent me. But whoso receiveth a Pro<g ref="char:EOLhyphen"/>phet
+<pb n="36" facs="tcp:205426:19"/> in the name of a Prophet, shall have a Prophet's Reward.</hi> Where the Word <hi>Pro<g ref="char:EOLhyphen"/>phet</hi> does signify a Preacher, or lawful Teacher of the Word of God.</p>
+            <p>Heavy Judgments have dropt down on the Heads of those who affront and abuse these Ministers of God. <q>That Example, my Child, which is wrote most for your Instruction, may be read in 2 <hi>Kings</hi> 2.23. where <hi>Elisha</hi> a Prophet of the Lord went up unto <hi>Bethel,</hi> and as he was going up by the Way, there came forth little Children out of the City, and mocked him, and said unto him, Go up thou Bald-Head, go up thou Bald-Head. And he turned back and looked on them, and cursed them in the Name of the Lord, and there came forth two She Bears out of the Wood, and tare in pieces Forty and two Children of them.</q>
+            </p>
+            <p>And now (my good Child) as I have given you some advice and directions what to <hi>do.</hi> So I would give you strict charge and cautions what you should <hi>not do.</hi> there be Vices to avoid, as well as Virtues to pursue. Some Vices to which you are the more subject, by the infirmities of your Age: So that by nature or by custom you may be soon addicted to them; but take timely warning. When St. <hi>Paul</hi> advised young <hi>Timothy to flee youthful Lusts:</hi> It does imply, that there are some particular
+<pb n="37" facs="tcp:205426:19"/> Temptations to which the youngest Peo<g ref="char:EOLhyphen"/>ple are the most exposed. This was con<g ref="char:EOLhyphen"/>fest by Holy <hi>David,</hi> when he prayed thus unto God, <hi>O remember not the Sins and Of<g ref="char:EOLhyphen"/>fences of my youth,</hi> Ps. 25.7. We see the Devil like his Servant <hi>Herod,</hi> does perse<g ref="char:EOLhyphen"/>cute our very Infants, and seeks diligently to destroy their innocent Souls: But be <hi>not ignorant,</hi> my Child, <hi>of his devices.</hi>
+            </p>
+            <p>The Devils devices to betray thee Child, are chiefly to draw thee into these Snares, <hi>Lying, Stealing, Idleness, Ill Company.</hi>
+            </p>
+            <p>First <hi>Lying.</hi> This is commonly the first Vice in Children, and alass it is the Foun<g ref="char:EOLhyphen"/>dation of all other Vices. For so it is, the Devil tempts our innocent Children, as he did our innocent Parents▪ He tempts them to begin with a Lye, and so go on to rob God, to cheat one another, and most to deceive their own Souls.</p>
+            <p>If you hearken, nay Child, unto the Devil the <hi>Father of Lyes,</hi> he will soon make thee one of his own Children, a Lyar and Deceiver. He will teach you all the little Arts and Tricks of Falshood and Wrong: he will teach you how to feign a false Excuse; how to pretend a different Reason; how to evade the Truth, and dissemble your own meaning; how to insinuate and wheedle; and tell a Story in jest, till you are drawn into it in earnest; how by degrees to deny the plainest Truth, and how at last to in<g ref="char:EOLhyphen"/>vent
+<pb n="38" facs="tcp:205426:20"/> the most notorious Lyes, and then stand them out with an obstinate Heart, and an impudent look.</p>
+            <p>Thy Parents and Governours will have much to answer for, if they encourage or connive at thee in a Lye; without Rebuke or Correction: They are partakers of thy Sin, and by suffering it on <hi>thy</hi> Head, they bring the Guilt upon their <hi>own.</hi>
+            </p>
+            <p>To Lye is the beginning of all Evil. If thou art once setled in a habit of Lying, thy Tongue is made ready for Swearing and Cursing; thy Hands are prepared for Picking and Stealing; thy Head and Heart will be disposed to all manner of Mischief. So that in St. <hi>James</hi>'s Words, thy <hi>Tongue being but a little Member, will be a World of iniquity, and will defile the whole Body, and set on fire the course of Nature, being it self set on fire of Hell.</hi>
+            </p>
+            <p>Therefore, my Child, if by any unhap<g ref="char:EOLhyphen"/>py means you have already contracted the custom of Lying; break off that custom with all your strength. Set a watch before your Mouth, and keep the Door of your Lips, and hold your Tongue as it were with a Bridle. Speak the Truth, tho it be to consess your own Faults; for there is no fault so great, as that of denying your own fault. God and Man will forgive the Con<g ref="char:EOLhyphen"/>fessing Sinner; but the Lyar deserves no pity, no pardon.</p>
+            <pb n="39" facs="tcp:205426:20"/>
+            <p>Never hope to conceal the Plot, thy own countenance will betray thee, or thy Con<g ref="char:EOLhyphen"/>federate will discover thee, or even a <hi>Bird of the Air will tell the matter:</hi> Truth will come to light, and then shalt thou have Shame and Terror.</p>
+            <p>My Child, when thou hast searched the Scriptures, thou wilt learn, how <hi>lying Lips are an abomination to the Lord,</hi> and how it is every good Man's wish and prayer, <hi>Re<g ref="char:EOLhyphen"/>move far from me Vanity and Lyes:</hi> How none can be a true Christian, or an honest Man, without <hi>putting away Lying, and speaking every Man Truth with his Neighbour.</hi> How Lying has the Devil for Inventor, and Hell for Reward. <hi>What shall be done unto thee thou false Tongue, even mighty and sharp Arrows with hot burning Coals?</hi>
+            </p>
+            <p>
+               <hi>Secondly, Stealing.</hi> This my Child is such an abominable Sin, that I cannot suspect thee guilty of it. A Thief and a Robber is such a perfect Villain, that it requires Time and Age to be so ripe for Hell. And yet, my Child, the Tempter may begin with thee betimes, and early entice thee to this great Wickedness; especially if he has brought thee into a habit of Lying, he finds it easie to draw thee a little farther into stealing. And for this he will set Traps in thy way.</p>
+            <p>He, the Devil, will perhaps raise thy curiosity, and tempt thee to lay hold on
+<pb n="40" facs="tcp:205426:21"/> somewhat, because it is a <hi>fine thing:</hi> Or he will work thee up into a covetous and greedy humour, and so make thee snatch or slide away anothers Goods: Or, per<g ref="char:EOLhyphen"/>haps he will deceive thee into a wretched fancy, that <hi>stolen waters are sweet,</hi> and so wheedle thee into Pinching and Pilfring, as if there were a Pleasure in it.</p>
+            <p>But remember, my Child, <hi>thou shalt not steal,</hi> that is, thou shalt be content with that which is thine <hi>own,</hi> and not take away that which is <hi>anothers.</hi> Nothing is thine <hi>own,</hi> but what thy Parents and Friends do give unto thee, nor will they let thee want what is necessary and proper for you. But if without their knowledge or consent, thou takest more than they al<g ref="char:EOLhyphen"/>low; this is a secret Robbery and base Pur<g ref="char:EOLhyphen"/>loyning from them; this is to cheat and de<g ref="char:EOLhyphen"/>fraud thy Friends and Parents in a private and clandestine way.</p>
+            <p>I mention this <hi>First,</hi> beeause this is the Foundation of most Childrens growing up into Thieves: they begin at home with a Liberty of being their own Carvers, they take things without asking leave; they learn to hide, and to convey away, and to sharp in little Trifles within Doors; till b<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> degrees they go abroad to practice othe<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Arts of Stealth and Mysteries of iniquity.</p>
+            <p>But dear Child, be Just and Honest in all thy Dealings; keep thy hands from
+<pb n="41" facs="tcp:205426:21"/> picking and stealing: and covet not ano<g ref="char:EOLhyphen"/>ther Man's Goods. Take what is thine <hi>ow<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> and goe thy way. Content is the greatest Virtue, and the greatest Blessing. Any stolen Treasure will prove like <hi>Achan's</hi> Wedge, will prove a <hi>cursed thing.</hi> There have been many Examples of unhappy Children, who began pilfring with Pins and Trifles, till the Devil has drawn them into grosser Acts of Thievery, and brought them to a Place of Execution upon Earth, and to a worse place of Torments in Hell.</p>
+            <p>Thirdly, <hi>Idleness,</hi> my Child, is to be a<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oided, as the Temptation which will draw <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e into all other mischief. Consider, thou art not born to be a useless burden of the Earth; thou art born to be an active Creature, and to do good in thy Generation. Thou art to be bred up to Industry in some honest Employ; to sup<g ref="char:EOLhyphen"/>port thy self, and to provide for others. This is Rational and Manly; but Idleness and Sloath are the property of <hi>Brutes,</hi> and even of the worst of <hi>them;</hi> for the Apostle from the Poet does imply, that they are the <hi>evil Beasts</hi> which have the <hi>slow-bellies.</hi>
+            </p>
+            <p>What a misfortune is it to some younger Persons, that partly by the negligence of their Friends, and partly by their own <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>luggish temper, they doze and dream away their precious time. They contract a ha<g ref="char:EOLhyphen"/>bit of Laziness and Dulness while they are
+<pb n="42" facs="tcp:205426:22"/> Children, which they can scarce shake off all the days of their Life. They are left to loyter Abroad, and to linger at Home, till their Body is all heaviness, and their ve<g ref="char:EOLhyphen"/>ry Soul in a Lump; till they are stupified in<g ref="char:EOLhyphen"/>to Drones or Sots, to feed on others la<g ref="char:EOLhyphen"/>bour, and devour what is not their own.</p>
+            <p>Therefore the Scriptures have so many Lessons of Industry and Application to Business. And the Apostle St. <hi>Paul</hi> is so hearty a promoter of Pains and Labour, so zealous an Enemy to Idleness and Ease, that he would have it made into a Law, 2 <hi>Thes.</hi> 3.10. that if <hi>any would not work, neither should they eat.</hi>
+            </p>
+            <p>My Child be not of a slow and softly hu<g ref="char:EOLhyphen"/>mour: Have a sprightly nimble Body, with a bright and ready Mind. Love Exercise, and have somewhat to do, tho to never so little purpose. Follow your Book with an Edge and Appetite to Learning; and then divert to your Sports and Recreations with Activity and all thy Strength. Move light and easie; have your Hands and your Feet at command; be rather a little Wanton than Mopish. Your Reputation and your Fortune will depend upon it. Hear <hi>Solomo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> observing by Experience and Wisdom from above, that <hi>Drouziness will cloath a Man with Rags; but seest thou a Man diligent in his busi<g ref="char:EOLhyphen"/>ness? He shall stand before Kings, he shall not stand before mean Men.</hi>
+            </p>
+            <p>Lastly, <hi>Ill Company,</hi> my Child, is a fata<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="43" facs="tcp:205426:22"/> danger, which you must decline, as you would Diseases and Death. For indeed Vice and Sin are the Leprosie and Plague of the Mind and Soul; and like the same in<g ref="char:EOLhyphen"/>fectious Distempers in the Body, they sel<g ref="char:EOLhyphen"/>dom breed of themselves, they are caught from some others.</p>
+            <p>And therefore it is as dangerous for young Persons to converse with those who are corrupted in their Minds, as with those who are tainted in their Flesh and Blood; the Poison does insensibly spread and com<g ref="char:EOLhyphen"/>municate it self; so as all catch the same Malady, who keep the same Company.</p>
+            <p>Alass! How many hopeful young Per<g ref="char:EOLhyphen"/>sons have we seen, beginning the World in Sober and Industrious ways? who falling among ill Companions, have quickly been made like unto them, and have followed them on to a scandalous Life, and perhaps to a shameful Death.</p>
+            <p>My Child, mind and observe your School-fellows and Companions, where you find any of good Nature and good Manners, disposed to Virtue and Religion; make choice of such for your familiar Friends; love their sweet and innocent Society, and imitate their good Example. But where you find a naughty vicious Child, where you can point out a Lyar or a Thief, or a Swearer, set a Mark upon them, and shun all manner of conversation with them. Heark<g ref="char:EOLhyphen"/>en
+<pb n="44" facs="tcp:205426:23"/> to the wise Man of God, Prov. 1.10. <hi>My Son if Sinners entice thee, consent thou not. If they say, come with us, or cast in thy Lot a<g ref="char:EOLhyphen"/>mong us.</hi> My Son <hi>walk not thou in the way with them, refrain thy foot from their path.</hi>
+            </p>
+            <p>And now, my dear Child, I would have nothing more to say to thee, but to beg and to pronounce God's Blessing on thee.</p>
+            <p>Yet I have forgot <hi>one</hi> Duty that more immediately relates to you poorer Scholars, who by the Providence of God are Taught and Cloathed by the pure Charity of well disposed Christians.</p>
+            <p>Your Duty is to be thankful and respect<g ref="char:EOLhyphen"/>ful to such Friends and Benefactors to your Bodies and your Souls, to pray for them, to praise them in the Gates, and to call them Blessed.</p>
+            <p>What could your poor and helpless Pa<g ref="char:EOLhyphen"/>rents have done for you? Their hardest Labour could scarce find you in your daily Bread. But for School and Books and de<g ref="char:EOLhyphen"/>cent Apparel, they could not afford them; necessity must have them excus'd.</p>
+            <p>The more thanks we owe to God and good People, that a way of Christian Edu<g ref="char:EOLhyphen"/>cation is opened to the Poor and Needy. That many Generous and Publick Spirits have join'd hand in hand for the most Glo<g ref="char:EOLhyphen"/>rious work of Charity, the Schooling and Cloathing of poor Children; the putting them out to Letters and Religion, to Sence
+<pb n="45" facs="tcp:205426:23"/> and good Manners; who would otherwise have been brought up to Idleness and Vice; to have been stupid Brutes upon Earth, and then miserable Fiends in Hell.</p>
+            <p>It is no small Honour to this Parish of St. <hi>Botolph Aldgate,</hi> that <hi>here</hi> was first laid the Foundation of these Charity Schools, <hi>here</hi> the good Example was first given, to raise occasional Collections, or stated Contribu<g ref="char:EOLhyphen"/>tions, to maintain Forty poor Native Boy<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, distinguisht by a decent habit, and instructed in a publick School, there by good dili<g ref="char:EOLhyphen"/>gence Taught to speak properly, to read distinctly, to rehearse their Catechism au<g ref="char:EOLhyphen"/>dibly, to repeat it weekly in the Church, and attend to a familiar Exposition of it, to make their Responses jointly in our pub<g ref="char:EOLhyphen"/>lick Prayers, to sing Psalms and Hymns in very agreeable consort, and on all occasions to behave themselves with modesty and re<g ref="char:EOLhyphen"/>spect to their Betters. Nor will the charity rest here; by the farther bounty of our Natives and Inhabitants, Provision is likely to be made to have the most honest and hopefull of these Boys traind up to Writing and counting, and so preferr'd to some good Trades or Creditable Services, to grow up into Useful and Able Men.</p>
+            <p>A Charity that looks and sounds so well, that the <hi>good Example</hi> has already spread into many other Parts of this Honourable City, and the adjacent parts of it, where
+<pb n="46" facs="tcp:205426:24"/> some thousands of Boys, and some number of Girls are cloathd and taught in the like excellent methods of Christian Education. Nay the good Report has reach'd to many of our remoter Cities and Towns, who have followed the same worthy Precedent, and will communicate the fair Copy to many other Places.</p>
+            <p>These pretty Children in walking by Pairs, and singing by Consort, do so natural<g ref="char:EOLhyphen"/>ly strike upon the Eyes, and win upon the hearts of good natur'd Christians, that I can<g ref="char:EOLhyphen"/>not but think, it will one day give occasion to some better settled and more lasting Provision for them. Some Natives or Inhabi<g ref="char:EOLhyphen"/>tants of Fortune and Figure in the World, having no Issue of their own, will here raise themselves a Family unto many Generati<g ref="char:EOLhyphen"/>ons: will in their Life or at their Death, perhaps Found an establisht School for them, perhaps allow Yearly Pensions to them, perhaps allot particular Sums to bind them Apprentices, or dispose of them in other Creditable ways of living. Men of plen<g ref="char:EOLhyphen"/>tiful Estates and of Excellent Spirits do bear Relation to this Place, God direct them and reward them.</p>
+            <p>In the mean time, I hope sufficient Con<g ref="char:EOLhyphen"/>tributions will not be wanting. Blessed ar<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ye, who from a Principle of Conscience and Honour, do chearfully promote such good Designs. Even Posterity shall call
+<pb n="47" facs="tcp:205426:24"/> you Blessed. And your Saviour at the day of Judgment shall again Pronounce ye Bles<g ref="char:EOLhyphen"/>sed. <hi>In as much as ye have done it to the least of these little ones, ye have done it unto <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e.</hi>
+            </p>
+            <p>Your Charity on this account, is above <hi>common</hi> Relief, above <hi>present</hi> Occasions of Food and Raiment, Ye Cloath the naked Mind, ye feed the hungry Soul. Ye make the Man, ye make the Christian.</p>
+            <p>If ye have Children of your own, trust <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e, God will bless them for this your C<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>rity to others Children. If ye have no l<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e of your own; by this method of Cha<g ref="char:EOLhyphen"/>rity you adopt Heirs of Salvation. You raise up Children unto God, a Generation that shall call you blessed.</p>
+            <p>Perhaps you save many of these little Ones; you save them from the Corners of Streets, from the High-ways, from the Go<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ls, from the Places of Execution. You save them perhaps to be Ornaments of this Parish; perhaps to be Governours of this City; perhaps to be Pillars of this Church and Nation.</p>
+            <p>And you my good Children, if God does so bless you, as from these Schools to be re<g ref="char:EOLhyphen"/>mov'd to some good Trade and Employ<g ref="char:EOLhyphen"/>ment, and thence to rise into Plenty and Credit in the World: Then remember your beginning; remember the Place that gave you Birth, and gave you Education
+<pb n="48" facs="tcp:205426:25"/> Be Ingenious and Grateful: Acknowledge the Charity you have received; and do as much for others as was done for you.</p>
+            <p>Young Man be taught Knowledge and Discretion, and the Lord prosper thee in all thy ways. <hi>Amen.</hi>
+            </p>
+         </div>
+         <div type="prayer">
+            <pb n="49" facs="tcp:205426:25"/>
+            <head>Morning Prayer for a Child sent to School.</head>
+            <p>BLessed be thy Name, O Lord, for defend<g ref="char:EOLhyphen"/>ing me from all the Perils of this Night past, early in the Morning let me cry unto thee for thy Help and Protection this Day fol<g ref="char:EOLhyphen"/>lowing. O heavenly Father, bless me thy Child with thy Grace and holy Spirit. Sow in my Heart the Seeds of Virtue and Religion, and grant I may bring forth good Increase. O forgive the sins and frailties of my Youth, and keep me innocent from every great Of<g ref="char:EOLhyphen"/>fence. Strengthen my Memory, and enlarge my Understanding, that from a Child I may know the Scriptures, and be brought up in the Nurture and Admonition of the Lord. Make me dutiful to my Parents, and obedi<g ref="char:EOLhyphen"/>ent to my Teachers. Grant me Industry and Love of Learning. Let me follow the exam<g ref="char:EOLhyphen"/>ple of thy holy Child Jesus; let me increase in Wisdom and Stature, and in Favour with God and Man, through the Merits of my dear Saviour, who taught me thus to pray,
+<q>Our Father which art in Heaven &amp;c.</q>
+            </p>
+            <p>I pray God bless my Father, Mother, Bro<g ref="char:EOLhyphen"/>thers, Sisters— my other Relations; and all my good Friends and Benefactors. <hi>Amen.</hi>
+            </p>
+         </div>
+         <div type="prayer">
+            <pb n="50" facs="tcp:205426:26"/>
+            <head>Evening Prayer for a Child.</head>
+            <p>I Bless and praise thy Name, O Lord, for protecting and preserving me this day past. O forgive me all the Vanities and Follies which I have been this day guilty of. Let me trea<g ref="char:EOLhyphen"/>sure up in a faithful Memory the good Instructi<g ref="char:EOLhyphen"/>ons which I have already learn'd; and, for the time to come, let me grow in Grace, and all manner of Goodness. O let me be trained up from a Child in the way that I should go, and when I am Old, let me not depart from it. Lord, I commend my Soul and Body to thy good Providence; by thy great Mercy de<g ref="char:EOLhyphen"/>fend me from all the perils and dangers of this Night. Hide me under the shadow of thy Wings. Give me Rest and Peace for the sake of thy Son Jesus, who taught me this his own Form of Prayer,
+<q>
+                  <p>Our Father &amp;c.</p>
+                  <p>I pray God bless my Father &amp;c.</p>
+               </q>
+            </p>
+         </div>
+         <div type="prayer">
+            <head>Prayer for a Child going to Church to be Catechiz'd.</head>
+            <p>O Blessed Jesus, who when thou wert twelve years old, didst go up to the Temple, and sat in the midst of the Doctors, both Hearing them and asking them Questions; so
+<pb n="51" facs="tcp:205426:26"/> as all the Congregation were astonisht at thy <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nderstanding and Answers. Assist me with <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y Grace and heavenly Benediction, that I <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing to the House of God for the like ex<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cise of Religion, may perform it laudably <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d devoutly, to thy Honour, and the Sal<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ation of my own Soul. Grant this, Lord Je<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>us. <hi>Amen.</hi>
+            </p>
+         </div>
+         <div type="prayer">
+            <head>Prayer for a Child before singing a Psalm or Hymn.</head>
+            <p>O Holy Jesus, who didst approve and com<g ref="char:EOLhyphen"/>mend the Children crying in the Tem<g ref="char:EOLhyphen"/>ple, Hosanna to the Son of David, and didst apply that Saying to them, Out of the Mouths of Babes and Sucklings thou hast perfected Praise. O make Melody in my Heart, and loosen my Tongue, that I may sing forth Praises and Thanksgivings to Father, Son and Holy Ghost. <hi>Amen.</hi>
+            </p>
+         </div>
+         <div type="prayer">
+            <head>Prayer for a Child coming to Church to be Confirm'd.</head>
+            <p>GRant, O Lord, that I may be now come to the Years of Discretion, that I may now discharge my Godfathers and Godmothers, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd take my Baptismal Promises and Vows up<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n my own Conscience. In token hereof, let
+<pb n="52" facs="tcp:205426:27"/> the Bishop lay his Hands upon me, and bless me in thy Name. Let me thy Child be de<g ref="char:EOLhyphen"/>fended with thy heavenly Grace, that I may continue thine for ever, and daily encrease in thy holy Spirit more and more, untill I come unto thy Everlasting Kingdom. <hi>Amen.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
